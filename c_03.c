@@ -42,7 +42,7 @@ void ex_05(void) {
 	printf("정수를 입력하시오\n");
 	scanf_s("%d", &num);
 
-	(num >= 22) ? printf("OK") : printf("NOK");
+	(num >> 1) ? printf("OK") : printf("NOK");
 
  }
 
