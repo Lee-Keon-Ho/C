@@ -1,5 +1,5 @@
-#include <stdio.h>;
-#include <conio.h>;
+#include <stdio.h>
+#include <conio.h>
 /*
   do while 반복을 이용하여 아래와 같이 동작하게 작성하시오
   -----------------------------------------------------
